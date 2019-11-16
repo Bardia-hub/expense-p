@@ -1,6 +1,9 @@
 {
   "name": "expensify",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.13.0"
+  },
   "main": "index.js",
   "author": "Andrew Mead",
   "license": "MIT",
@@ -30,6 +33,7 @@
     "live-server": "^1.2.0",
     "moment": "2.18.1",
     "node-sass": "^4.13.0",
+
     "normalize.css": "7.0.0",
     "react": "15.6.1",
     "react-addons-shallow-compare": "15.6.0",
@@ -45,6 +49,7 @@
     "uuid": "3.1.0",
     "validator": "8.0.0",
     "webpack": "3.1.0",
-    "webpack-dev-server": "2.5.1"
+    "webpack-dev-server": "2.5.1",
+    "yarn.lock": "^0.0.1-security"
   }
 }
